@@ -9,6 +9,7 @@ Can't get Indigo to compile correctly? Check out this [link](https://www.youtube
 
 ## Changelogs
 * *Dezi* *
+Removing features to avoid detection, renaming functions etc.
 
 **4.5.1**
 + Updated cheat to panorama
